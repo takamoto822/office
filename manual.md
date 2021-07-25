@@ -1,4 +1,2 @@
 // tesuto
 //tuika
-
-//miss
